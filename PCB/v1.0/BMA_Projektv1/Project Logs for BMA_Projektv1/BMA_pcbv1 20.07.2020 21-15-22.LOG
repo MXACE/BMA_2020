@@ -1,0 +1,56 @@
+Added Component: Designator=D1(*PLCC-4)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D2(*PLCC-4)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D3(*PLCC-4)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D4(*PLCC-4)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D5(*PLCC-4)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D6(*PLCC-4)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D7(*PLCC-4)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D8(*PLCC-4)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=NetD1_2 Pin=D1-2
+Added Pin To Net: NetName=NetD1_3 Pin=D1-3
+Added Pin To Net: NetName=+3.3 Pin=D1-4
+Added Pin To Net: NetName=NetD2_1 Pin=D2-1
+Added Pin To Net: NetName=NetD2_2 Pin=D2-2
+Added Pin To Net: NetName=NetD2_3 Pin=D2-3
+Added Pin To Net: NetName=+3.3 Pin=D2-4
+Added Pin To Net: NetName=NetD3_1 Pin=D3-1
+Added Pin To Net: NetName=NetD3_2 Pin=D3-2
+Added Pin To Net: NetName=NetD3_3 Pin=D3-3
+Added Pin To Net: NetName=+3.3 Pin=D3-4
+Added Pin To Net: NetName=NetD4_1 Pin=D4-1
+Added Pin To Net: NetName=NetD4_2 Pin=D4-2
+Added Pin To Net: NetName=NetD4_3 Pin=D4-3
+Added Pin To Net: NetName=+3.3 Pin=D4-4
+Added Pin To Net: NetName=NetD5_1 Pin=D5-1
+Added Pin To Net: NetName=NetD5_2 Pin=D5-2
+Added Pin To Net: NetName=NetD5_3 Pin=D5-3
+Added Pin To Net: NetName=+3.3 Pin=D5-4
+Added Pin To Net: NetName=NetD6_1 Pin=D6-1
+Added Pin To Net: NetName=NetD6_2 Pin=D6-2
+Added Pin To Net: NetName=NetD6_3 Pin=D6-3
+Added Pin To Net: NetName=+3.3 Pin=D6-4
+Added Pin To Net: NetName=NetD7_1 Pin=D7-1
+Added Pin To Net: NetName=NetD7_2 Pin=D7-2
+Added Pin To Net: NetName=NetD7_3 Pin=D7-3
+Added Pin To Net: NetName=+3.3 Pin=D7-4
+Added Pin To Net: NetName=NetD8_1 Pin=D8-1
+Added Pin To Net: NetName=NetD8_2 Pin=D8-2
+Added Pin To Net: NetName=NetD8_3 Pin=D8-3
+Added Pin To Net: NetName=+3.3 Pin=D8-4
+Added Member To Class: ClassName=U_leds Member=Component D1 67-23/R6GHBHC-B01/2T
+Added Member To Class: ClassName=U_leds Member=Component D2 67-23/R6GHBHC-B01/2T
+Added Member To Class: ClassName=U_leds Member=Component D3 67-23/R6GHBHC-B01/2T
+Added Member To Class: ClassName=U_leds Member=Component D4 67-23/R6GHBHC-B01/2T
+Added Member To Class: ClassName=U_leds Member=Component D5 67-23/R6GHBHC-B01/2T
+Added Member To Class: ClassName=U_leds Member=Component D6 67-23/R6GHBHC-B01/2T
+Added Member To Class: ClassName=U_leds Member=Component D7 67-23/R6GHBHC-B01/2T
+Added Member To Class: ClassName=U_leds Member=Component D8 67-23/R6GHBHC-B01/2T

@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=NetC34_2 Pin=U24-53
+Removed Pin From Net: NetName=NetC33_2 Pin=U24-54
+Removed Pin From Net: NetName=NetC32_2 Pin=U24-55
+Removed Pin From Net: NetName=NetC31_2 Pin=U24-56
+Removed Pin From Net: NetName=NetC30_2 Pin=U24-57
+Removed Pin From Net: NetName=NetC29_2 Pin=U24-58
+Removed Pin From Net: NetName=NetC6_2 Pin=U24-82
+Added Pin To Net: NetName=NetC34_2 Pin=U24-51
+Added Pin To Net: NetName=NetC33_2 Pin=U24-52
+Added Pin To Net: NetName=NetC32_2 Pin=U24-53
+Added Pin To Net: NetName=NetC31_2 Pin=U24-54
+Added Pin To Net: NetName=NetC30_2 Pin=U24-55
+Added Pin To Net: NetName=NetC29_2 Pin=U24-56
+Added Pin To Net: NetName=NetU24_82 Pin=U24-82
+Added Net: Name=NetU24_82

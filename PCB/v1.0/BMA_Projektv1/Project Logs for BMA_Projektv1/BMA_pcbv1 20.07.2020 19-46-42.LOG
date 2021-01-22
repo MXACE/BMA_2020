@@ -1,0 +1,43 @@
+Added Component: Designator=U7(RND 210-00206)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U8(RND 210-00206)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U9(RND 210-00206)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U10(RND 210-00206)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U11(RND 210-00206)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=+3.3 Pin=U7-1
+Added Pin To Net: NetName=+3.3 Pin=U7-1
+Added Pin To Net: NetName=NetC10_2 Pin=U7-2
+Added Pin To Net: NetName=NetC10_2 Pin=U7-2
+Added Pin To Net: NetName=+3.3 Pin=U8-1
+Added Pin To Net: NetName=+3.3 Pin=U8-1
+Added Pin To Net: NetName=NetC9_2 Pin=U8-2
+Added Pin To Net: NetName=NetC9_2 Pin=U8-2
+Added Pin To Net: NetName=+3.3 Pin=U9-1
+Added Pin To Net: NetName=+3.3 Pin=U9-1
+Added Pin To Net: NetName=NetC8_2 Pin=U9-2
+Added Pin To Net: NetName=NetC8_2 Pin=U9-2
+Added Pin To Net: NetName=+3.3 Pin=U10-1
+Added Pin To Net: NetName=+3.3 Pin=U10-1
+Added Pin To Net: NetName=NetC7_2 Pin=U10-2
+Added Pin To Net: NetName=NetC7_2 Pin=U10-2
+Added Pin To Net: NetName=+3.3 Pin=U11-1
+Added Pin To Net: NetName=+3.3 Pin=U11-1
+Added Pin To Net: NetName=NetC6_2 Pin=U11-2
+Added Pin To Net: NetName=NetC6_2 Pin=U11-2
+Added Member To Class: ClassName=U_buttons Member=Component U7 BUTTON
+Added Member To Class: ClassName=U_buttons Member=Component U8 BUTTON
+Added Member To Class: ClassName=U_buttons Member=Component U9 BUTTON
+Added Member To Class: ClassName=U_buttons Member=Component U10 BUTTON
+Added Member To Class: ClassName=U_buttons Member=Component U11 BUTTON
+Added Room: Name=U_buttons
+Added Room: Name=U_io
+Added Room: Name=U_motors
+Added Room: Name=U_oled
+Added Room: Name=U_power_supply
+Added Room: Name=U_sensor
+Added Room: Name=U_serial
+Added Room: Name=U_uC

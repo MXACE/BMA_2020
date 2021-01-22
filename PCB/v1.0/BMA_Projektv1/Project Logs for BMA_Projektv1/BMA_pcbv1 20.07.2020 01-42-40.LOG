@@ -1,0 +1,38 @@
+Added Component: Designator=U1(JOGPAD_Button)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U2(JOGPAD_Button)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U3(JOGPAD_Button)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U4(JOGPAD_Button)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U5(JOGPAD_Button)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=+3.3 Pin=U1-1
+Added Pin To Net: NetName=+3.3 Pin=U1-1
+Added Pin To Net: NetName=NetC5_2 Pin=U1-2
+Added Pin To Net: NetName=NetC5_2 Pin=U1-2
+Added Pin To Net: NetName=+3.3 Pin=U2-1
+Added Pin To Net: NetName=+3.3 Pin=U2-1
+Added Pin To Net: NetName=NetC4_2 Pin=U2-2
+Added Pin To Net: NetName=NetC4_2 Pin=U2-2
+Added Pin To Net: NetName=+3.3 Pin=U3-1
+Added Pin To Net: NetName=+3.3 Pin=U3-1
+Added Pin To Net: NetName=NetC3_2 Pin=U3-2
+Added Pin To Net: NetName=NetC3_2 Pin=U3-2
+Added Pin To Net: NetName=+3.3 Pin=U4-1
+Added Pin To Net: NetName=+3.3 Pin=U4-1
+Added Pin To Net: NetName=NetC2_2 Pin=U4-2
+Added Pin To Net: NetName=NetC2_2 Pin=U4-2
+Added Pin To Net: NetName=+3.3 Pin=U5-1
+Added Pin To Net: NetName=+3.3 Pin=U5-1
+Added Pin To Net: NetName=NetC1_2 Pin=U5-2
+Added Pin To Net: NetName=NetC1_2 Pin=U5-2
+Added Member To Class: ClassName=U_buttons Member=Component U1 BUTTON_JOGPAD
+Added Member To Class: ClassName=U_buttons Member=Component U2 BUTTON_JOGPAD
+Added Member To Class: ClassName=U_buttons Member=Component U3 BUTTON_JOGPAD
+Added Member To Class: ClassName=U_buttons Member=Component U4 BUTTON_JOGPAD
+Added Member To Class: ClassName=U_buttons Member=Component U5 BUTTON_JOGPAD
+Added Room: Name=U_oled
+Added Room: Name=U_serial
+Added Room: Name=U_uC

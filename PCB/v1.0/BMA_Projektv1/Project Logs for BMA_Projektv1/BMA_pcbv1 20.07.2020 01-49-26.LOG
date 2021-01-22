@@ -1,0 +1,35 @@
+Removed Pin From Net: NetName=+3.3 Pin=J1-1
+Removed Pin From Net: NetName=GND Pin=J1-2
+Removed Member From Class: ClassName=U_oled Member=J1
+Added Component: Designator=P27(HDR1X7)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Discription"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Note"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+3.3 Pin=P27-1
+Added Pin To Net: NetName=GND Pin=P27-2
+Added Pin To Net: NetName=NetP27_3 Pin=P27-3
+Added Pin To Net: NetName=NetP27_3 Pin=U24-32
+Added Net: Name=NetP27_3
+Added Pin To Net: NetName=NetP27_4 Pin=P27-4
+Added Pin To Net: NetName=NetP27_4 Pin=U24-30
+Added Net: Name=NetP27_4
+Added Pin To Net: NetName=NetP27_5 Pin=P27-5
+Added Pin To Net: NetName=NetP27_5 Pin=U24-31
+Added Net: Name=NetP27_5
+Added Pin To Net: NetName=NetP27_6 Pin=P27-6
+Added Pin To Net: NetName=NetP27_6 Pin=U24-29
+Added Net: Name=NetP27_6
+Added Pin To Net: NetName=NetP27_7 Pin=P27-7
+Added Pin To Net: NetName=NetP27_7 Pin=U24-26
+Added Net: Name=NetP27_7
+Added Member To Class: ClassName=U_oled Member=Component P27 Header 7
+Added Room: Name=U_buttons
+Added Room: Name=U_oled
+Added Room: Name=U_serial
+Added Room: Name=U_uC

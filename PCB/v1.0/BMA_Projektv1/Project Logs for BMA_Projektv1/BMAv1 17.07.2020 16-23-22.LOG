@@ -1,0 +1,113 @@
+Removed Member From Class: ClassName=U_io Member=C16
+Removed Member From Class: ClassName=U_io Member=C17
+Removed Member From Class: ClassName=U_uC Member=C21
+Removed Member From Class: ClassName=U_oled Member=C27
+Removed Member From Class: ClassName=U_motors Member=C30
+Removed Member From Class: ClassName=U_power_supply Member=C32
+Removed Member From Class: ClassName=U_sensor Member=C40
+Removed Member From Class: ClassName=U_sensor Member=C42
+Removed Member From Class: ClassName=U_serial Member=C43
+Removed Member From Class: ClassName=U_power_supply Member=D19
+Removed Member From Class: ClassName=U_power_supply Member=D20
+Removed Member From Class: ClassName=U_motors Member=P1
+Removed Member From Class: ClassName=U_motors Member=P2
+Removed Member From Class: ClassName=U_power_supply Member=P7
+Removed Member From Class: ClassName=U_serial Member=P7
+Removed Member From Class: ClassName=U_io Member=P9
+Removed Member From Class: ClassName=U_leds Member=P10
+Removed Member From Class: ClassName=U_leds Member=P11
+Removed Member From Class: ClassName=U_power_supply Member=P11
+Removed Member From Class: ClassName=U_sensor Member=P17
+Removed Member From Class: ClassName=U_uC Member=P17
+Added Component: Designator=D1(*PLCC-4)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D2(*PLCC-4)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D3(*PLCC-4)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D4(*PLCC-4)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D5(*PLCC-4)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D6(*PLCC-4)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D7(*PLCC-4)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D8(*PLCC-4)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=NetD1_2 Pin=D1-2
+Added Pin To Net: NetName=NetD1_3 Pin=D1-3
+Added Pin To Net: NetName=+3.3 Pin=D1-4
+Added Pin To Net: NetName=NetD2_1 Pin=D2-1
+Added Pin To Net: NetName=NetD2_2 Pin=D2-2
+Added Pin To Net: NetName=NetD2_3 Pin=D2-3
+Added Pin To Net: NetName=+3.3 Pin=D2-4
+Added Pin To Net: NetName=NetD3_1 Pin=D3-1
+Added Pin To Net: NetName=NetD3_2 Pin=D3-2
+Added Pin To Net: NetName=NetD3_3 Pin=D3-3
+Added Pin To Net: NetName=+3.3 Pin=D3-4
+Added Pin To Net: NetName=NetD4_1 Pin=D4-1
+Added Pin To Net: NetName=NetD4_2 Pin=D4-2
+Added Pin To Net: NetName=NetD4_3 Pin=D4-3
+Added Pin To Net: NetName=+3.3 Pin=D4-4
+Added Pin To Net: NetName=NetD5_1 Pin=D5-1
+Added Pin To Net: NetName=NetD5_2 Pin=D5-2
+Added Pin To Net: NetName=NetD5_3 Pin=D5-3
+Added Pin To Net: NetName=+3.3 Pin=D5-4
+Added Pin To Net: NetName=NetD6_1 Pin=D6-1
+Added Pin To Net: NetName=NetD6_2 Pin=D6-2
+Added Pin To Net: NetName=NetD6_3 Pin=D6-3
+Added Pin To Net: NetName=+3.3 Pin=D6-4
+Added Pin To Net: NetName=NetD7_1 Pin=D7-1
+Added Pin To Net: NetName=NetD7_2 Pin=D7-2
+Added Pin To Net: NetName=NetD7_3 Pin=D7-3
+Added Pin To Net: NetName=+3.3 Pin=D7-4
+Added Pin To Net: NetName=NetD8_1 Pin=D8-1
+Added Pin To Net: NetName=NetD8_2 Pin=D8-2
+Added Pin To Net: NetName=NetD8_3 Pin=D8-3
+Added Pin To Net: NetName=+3.3 Pin=D8-4
+Added Member To Class: ClassName=U_io Member=Component C14 100nF
+Added Member To Class: ClassName=U_io Member=Component C15 100nF
+Added Member To Class: ClassName=U_motors Member=Component C18 100nF
+Added Member To Class: ClassName=U_motors Member=Component C22 100nF
+Added Member To Class: ClassName=U_oled Member=Component C23 100nF
+Added Member To Class: ClassName=U_power_supply Member=Component C25 10uF
+Added Member To Class: ClassName=U_power_supply Member=Component C26 10uF
+Added Member To Class: ClassName=U_power_supply Member=Component C28 10uF
+Added Member To Class: ClassName=U_sensor Member=Component C31 100nF
+Added Member To Class: ClassName=U_sensor Member=Component C33 100nF
+Added Member To Class: ClassName=U_sensor Member=Component C36 100nF
+Added Member To Class: ClassName=U_sensor Member=Component C38 100nF
+Added Member To Class: ClassName=U_serial Member=Component C39 100nF
+Added Member To Class: ClassName=U_uC Member=Component C41 10uF
+Added Member To Class: ClassName=U_uC Member=Component C44 22pF
+Added Member To Class: ClassName=U_uC Member=Component C46 100nF
+Added Member To Class: ClassName=U_uC Member=Component C47 100nF
+Added Member To Class: ClassName=U_uC Member=Component C49 100nF
+Added Member To Class: ClassName=U_uC Member=Component C52 100nF
+Added Member To Class: ClassName=U_leds Member=Component D1 67-23/R6GHBHC-B01/2T
+Added Member To Class: ClassName=U_leds Member=Component D2 67-23/R6GHBHC-B01/2T
+Added Member To Class: ClassName=U_leds Member=Component D3 67-23/R6GHBHC-B01/2T
+Added Member To Class: ClassName=U_leds Member=Component D4 67-23/R6GHBHC-B01/2T
+Added Member To Class: ClassName=U_leds Member=Component D5 67-23/R6GHBHC-B01/2T
+Added Member To Class: ClassName=U_leds Member=Component D6 67-23/R6GHBHC-B01/2T
+Added Member To Class: ClassName=U_leds Member=Component D7 67-23/R6GHBHC-B01/2T
+Added Member To Class: ClassName=U_leds Member=Component D8 67-23/R6GHBHC-B01/2T
+Added Member To Class: ClassName=U_power_supply Member=Component D13 TVS 5V
+Added Member To Class: ClassName=U_power_supply Member=Component D14 Orange
+Added Member To Class: ClassName=U_power_supply Member=Component D15 TVS 5V
+Added Member To Class: ClassName=U_io Member=Component P4 Header 2X2
+Added Member To Class: ClassName=U_leds Member=Component P5 Test
+Added Member To Class: ClassName=U_leds Member=Component P6 Test
+Added Member To Class: ClassName=U_motors Member=Component P12 Header 2
+Added Member To Class: ClassName=U_motors Member=Component P13 Header 3
+Added Member To Class: ClassName=U_power_supply Member=Component P15 Test
+Added Member To Class: ClassName=U_power_supply Member=Component P16 Test
+Added Member To Class: ClassName=U_power_supply Member=Component P18 Test
+Added Member To Class: ClassName=U_sensor Member=Component P19 Header 8
+Added Member To Class: ClassName=U_serial Member=Component P20 NP
+Added Member To Class: ClassName=U_uC Member=Component P21 Test
+Added Member To Class: ClassName=U_uC Member=Component P23 Header 6
+Added Member To Class: ClassName=U_uC Member=Component P24 Test
+Added Member To Class: ClassName=U_uC Member=Component P26 IDC-20

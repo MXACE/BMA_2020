@@ -1,0 +1,8 @@
+
+
+beim steuern der Controller. warum nicht einfach mit String.h und strcat arbeiten.
+
+dann den grossen string seriel auf beide controller pushen.
++ keine abfrage welchen controller.
++ kein zweidimensionales array.
++ keine zwei for schlaufen.

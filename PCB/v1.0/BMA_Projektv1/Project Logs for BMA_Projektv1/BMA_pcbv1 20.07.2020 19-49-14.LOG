@@ -1,0 +1,7 @@
+Added Component: Designator=U6(RND 210-00206)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=+3.3 Pin=U6-1
+Added Pin To Net: NetName=+3.3 Pin=U6-1
+Added Pin To Net: NetName=NetC11_2 Pin=U6-2
+Added Pin To Net: NetName=NetC11_2 Pin=U6-2
+Added Member To Class: ClassName=U_buttons Member=Component U6 BUTTON
